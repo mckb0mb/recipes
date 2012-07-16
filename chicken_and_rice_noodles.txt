@@ -28,3 +28,5 @@ Notes
 -----
 + Adapted from: [Cooking Light](http://www.myrecipes.com/recipe/chicken-glass-noodle-salad-10000002001899/) by Ann Taylor Pittman.
 + We had to modify this recipe to work with ingredients from Trader Joes, so we used whatever asian noodles they had and got raw chicken breasts.
++ Cuisine: Thai
+
